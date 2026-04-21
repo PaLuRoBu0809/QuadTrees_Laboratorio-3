@@ -108,4 +108,4 @@ El proyecto utiliza las siguientes bibliotecas y herramientas:
 
 ---
 
-*Proyecto de Laboratorio — Estructuras de Datos Espaciales*
+*Proyecto de Laboratorio — Estructuras de Datos y laboratorio*

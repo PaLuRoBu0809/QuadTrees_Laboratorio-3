@@ -104,7 +104,7 @@ El proyecto utiliza las siguientes bibliotecas y herramientas:
 - **numpy** generación de puntos aleatorios y operaciones vectoriales eficientes sobre coordenadas.
 - **Herramientas de IA** utilizadas como apoyo durante el desarrollo de las visualizaciones y refinamientos algoritmicos.
 - **time**  medición de tiempos de ejecución para el análisis comparativo entre Quadtree y fuerza bruta.
-- **random **  generación de datos aleatorios auxiliares, posiblemente para casos de prueba específicos.
+- **random**  generación de datos aleatorios auxiliares, posiblemente para casos de prueba específicos.
 
 ---
 
